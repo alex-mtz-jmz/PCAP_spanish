@@ -74,4 +74,14 @@ print(123)
 print(True > False)
 print(True < False)
 
-# operadores
+# operadores (+, -, *, /, //, %, **)
+print(12 + 431 + .453 + (-342.1) + 32.0)
+print(213 - 432 - .35 - 331.0 - .54)
+print(234 * 2 * 12.4)
+print(12 / 423)
+print(3 // 2)  # division entera
+print(34 // 8)
+print(2 ** 4)  # exponenciacion
+print(5 ** 2)
+print(14 % 3) # division residuo
+print(34 % 5)
